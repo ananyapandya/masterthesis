@@ -1,0 +1,27 @@
+testerId,High,[scale] How easy was it to understand the recommendation?,Medium,[scale] How easy was it to understand the recommendation?,Low,[scale] How easy was it to understand the recommendation?,[mission] Find a canton with a level of risk: Very High and follow recommendations for driving,[mission] Find a canton with a Medium level of risk and follow recommendations for outdoors,[mission] Find a canton with a High level of risk and follow recommendations for indoors,"[scale] On a scale of 1 to 10, how was your experience with the interface? (1 = not user-friendly at all, 10 = super user friendly)",[multiple_choice] Which way of representing the recommendations did you find the most useful?,[input] Do you have any further comments?,[context] Demographic Questions,[input] What is your age? ,[multiple_choice] What gender do you identify as?,[multiple_choice] What is the highest degree or level of education you have completed?,[input] How much time (hours) on average do you spend on your mobile?
+45321674,0,3,0,3,1,1,direct success: Path 1,direct success: Path 1,direct success: Path 1,6,2,The text of the first recommendation was a little bit repetitive. I liked the icons that you created. The colors could be chosen more appropriately so that also color blind people can see a difference (red/green). ,1,23,1,1,6
+45321666,0,10,0,7,1,4,direct success: Path 1,direct success: Path 1,direct success: Path 1,7,2,0,1,24,1,1,0
+45313379,0,4,0,8,1,8,indirect success: Path 1,direct success: Path 1,direct success: Path 1,9,2,0,1,25,1,2,3
+45307521,0,10,0,10,1,10,indirect success: Path 1,indirect success: Path 1,direct success: Path 2,6,2,It took me sometime to understand the task - I was able to select the cantons with risk level but then to click on - ' you are inside/outside' - it took me sometime to understand that I need to click in that option.,1,24,3,2,2
+45307279,1,7,0,8,1,5,direct success: Path 1,direct success: Path 1,indirect success: Path 1,7,2,0,1,25,0,2,1
+45294677,0,10,0,10,0,10,indirect success: Path 1,direct success: Path 1,direct success: Path 1,10,2,It looks good and user friendly :),1,28,1,2,5
+45294215,0,5,0,3,1,6,indirect success: Path 1,direct success: Path 1,direct success: Path 1,7,2,"maybe sometimes not complete sentences, but bullet point could be sufficient",1,23,0,1,2
+45289319,1,8,0,9,1,9,direct success: Path 1,direct success: Path 1,direct success: Path 1,8,2,0,1,26,0,1,6
+45253850,0,10,0,7,0,7,indirect success: Path 1,direct success: Path 2,direct success: Path 1,8,2,0,1,29,1,2,3
+45205528,0,8,0,6,0,10,indirect success: Path 1,direct success: Path 1,direct success: Path 1,8,2,"I feel that the visual recommendation depicting the man running to find shelter could cause confusion due to the changing shade of red, considering that the danger rating itself is color based and uses tones of red.",1,26,0,0,2
+45205643,0,8,1,9,,,,,,,,,,,,,
+45139075,1,7,1,7,0,6,,,,,,,,,,,
+45124915,0,8,0,4,1,2,direct success: Path 1,direct success: Path 1,direct success: Path 1,8,2,0,1,22,1,0,0
+45124434,1,5,0,8,0,8,direct success: Path 1,direct success: Path 1,direct success: Path 1,10,2,0,1,23,1,1,3
+45123960,0,7,1,6,1,7,,,,,,,,,,,
+45121823,0,9,0,7,1,9,direct success: Path 1,direct success: Path 1,direct success: Path 1,9,2,0,1,33,1,2,4
+45119012,0,9,0,9,1,10,direct success: Path 1,direct success: Path 1,direct success: Path 1,10,2,"According to my thought, Icon and text can be in different proportions. For instance, an icon can be bigger than text so that just in case the icon is not understandable, I can read text.",1,29,0,2,6
+45118577,0,9,0,10,,,,,,,,,,,,,
+45116934,0,9,0,7,0,10,indirect success: Path 1,direct success: Path 2,,,,,,,,,
+45115621,0,8,,,,,,,,,,,,,,,
+45114873,0,10,0,10,0,10,direct success: Path 1,direct success: Path 1,direct success: Path 1,10,2,I feel like the icons in the mixed version could be 10 or 20% bigger,1,32,0,0,2
+45113349,0,9,0,9,1,9,direct success: Path 1,direct success: Path 1,direct success: Path 1,9,2,The click option can be made more user friendly,1,28,0,2,6
+45103520,0,8,0,8,0,8,direct success: Path 1,direct success: Path 1,direct success: Path 1,9,2,0,1,48,1,0,1
+45067252,0,7,0,7,1,8,direct success: Path 1,direct success: Path 1,direct success: Path 1,9,2,0,1,52,0,3,1
+45064858,1,9,0,,,,,,,,,,,,,,
+45030523,0,10,0,10,0,10,direct success: Path 1,direct success: Path 1,direct success: Path 1,9,2,0,1,38,0,2,2
